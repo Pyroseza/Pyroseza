@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Jarrod</h1>
 <h3 align="center">A Senior Support Engineer at Atlassian who loves to tinker with code on various devices and operating systems</h3>
 
-- 🔭 I’m currently working on **a <top-secret-project>**
+- 🔭 I’m currently working on a **top secret project**
 
-- 📫 How to reach me **jarpri08@gmail.com**
+- 📫 How to reach me **jarpri zero eight at gmail dot com**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Pyroseza**
 
