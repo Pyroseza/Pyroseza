@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on a **top secret project**
 
-- 📫 How to reach me **jarpri zero eight at gmail dot com**
+- 📫 How to reach me: **jarpri zero eight at gmail dot com**
 
-- 👨‍💻 All of my projects are available at **https://github.com/Pyroseza**
+- 👨‍💻 All of my projects are available at: **https://github.com/Pyroseza** (if you can't see it that's because it's top secret! 🤫 
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/jarrod-price/**
 
