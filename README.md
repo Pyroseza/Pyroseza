@@ -54,8 +54,7 @@ https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" widt
 
 
 ## Other
-<img src = "https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width = '40' height = '40'/> <img src = "https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width = '40' height = '40'/> <img src = "https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width = '40' height = '40'/> <img src = "
-https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width = '40' height = '40'/>
+<img src = "https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width = '40' height = '40'/> <img src = "https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width = '40' height = '40'/> <img src = "https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width = '40' height = '40'/> <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width = '40' height = '40'/>
 
 
 ## Editors
