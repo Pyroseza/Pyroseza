@@ -38,7 +38,7 @@ https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" widt
 
 
 ## Framework
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width = '40' height = '40'/> <img src = "https://github.com/devicons/devicon/blob/master/icons/meteor/meteor-original.svg" width = '40' height = '40'/>
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width = '40' height = '40'/> <img src = "https://github.com/devicons/devicon/blob/master/icons/meteor/meteor-original.svg" width = '40' height = '40'/>
 
 
 ## Operating Systems
