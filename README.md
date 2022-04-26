@@ -1,18 +1,22 @@
 <div align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; margin-left: 0px;margin-right: 0px;"/> </div>
 
 
-<h1 align="center">Hi 👋, I'm Jarrod</h1>
-<h3 align="center">A Senior Support Engineer at Atlassian who loves to tinker with code on various hardware and using different operating systems</h3>
+<h1 align="center">👋 Hi, I'm Jarrod 🤓</h1>
+<h3 align="center">A Senior Support Engineer at Atlassian who loves to tinker with software using different operating systems on various hardware</h3>
 
-- 🔭 I’m currently working on a **top secret project**
+- 🔭 I’m currently working on a **top secret project** that'll change the world one day for the better!
 
-- 📫 How to reach me: **jarpri zero eight at gmail dot com**
+- 📫 How to reach me: Raise an issue right here in this github repo: https://github.com/Pyroseza/Pyroseza/issues
 
-- 👨‍💻 All of my projects are available at: **https://github.com/Pyroseza** (if you can't see it that's because it's top secret! 🤫)
+- 👨‍💻 All of my public projects are available at: **https://github.com/Pyroseza**
 
-- 📄 Know about my experiences **https://www.linkedin.com/in/jarrod-price/**
+- 📄 Know about my work experiences **https://www.linkedin.com/in/jarrod-price/**
 
 - ⚡ Fun fact **I have ADHD!** SQUIRREL!!🐿 
+
+<h1 align="center">My Stats</h1>
+
+![](https://github.com/Pyroseza/github-stats/blob/master/generated/overview.svg) ![](https://github.com/Pyroseza/github-stats/blob/master/generated/languages.svg)
 
 <h1 align="center">My Skills</h1>
 
