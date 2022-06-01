@@ -12,7 +12,7 @@
 
 - 📄 Know about my work experiences **https://www.linkedin.com/in/jarrod-price/**
 
-- ⚡ Fun fact **I have ADHD!** SQUIRREL!!🐿 
+- ⚡ Fun fact: I have ADHD and OCPD
 
 <h1 align="center">My Stats</h1>
 
