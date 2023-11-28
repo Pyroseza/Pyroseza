@@ -62,11 +62,13 @@
 ## Editors
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width='40' height='40'/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width='40' height='40'/> <!--<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width='40' height='40'/> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width='40' height='40'/>-->
 
+<hr>
+
 <a href="https://github.com/https://github.com/Pyroseza" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 15px; height: auto; width: auto;"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jarrod-price/" target="_blank">
+<a href="https://www.linkedin.com/in/jarrod-price/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 15px; height: auto; width: auto;"/>
 </a>
 <!--
