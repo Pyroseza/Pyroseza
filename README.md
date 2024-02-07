@@ -12,7 +12,7 @@
 
 - 📄 Know about my work experiences **https://www.linkedin.com/in/jarrod-price/**
 
-- ⚡ Fun fact: I have ADHD and OCPD
+- ⚡ Fun fact: I have a black belt in Shotokan Karate
 
 <h1 align="center">My Stats</h1>
 
