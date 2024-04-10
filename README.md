@@ -52,7 +52,7 @@
 
 
 ## Cloud
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width='40' height='40'/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width='40' height='40'/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width='40' height='40'/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width='40' height='40'/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width='40' height='40'/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width='40' height='40'/>
 
 
 ## Other
@@ -65,11 +65,10 @@
 <hr>
 
 <a href="https://github.com/Pyroseza" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 15px; height: auto; width: auto;"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 15px; height: auto; width: auto;"/>
 </a>
-
 <a href="https://www.linkedin.com/in/jarrod-price/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 15px; height: auto; width: auto;"/>
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 15px; height: auto; width: auto;"/>
 </a>
 <!--
 <a href="https://stackoverflow.com/users/8363642/pyroseza" target="_blank">
