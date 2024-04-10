@@ -4,15 +4,15 @@
 <h1 align="center">👋 Hi, I'm Jarrod 🤓</h1>
 <h3 align="center">I'm a nerd who loves to tinker with software using different operating systems on various hardware platforms</h3>
 
-- 🔭 I’m currently working on a **top secret project** that'll change the world one day for the better!
+- 🕵️ I’m currently working on a **top secret project** that'll change the world one day for the better!
 
 - 📫 How to reach me: Raise an issue right here in this github repo: https://github.com/Pyroseza/Pyroseza/issues
 
-- 👨‍💻 All of my public projects are available at: **https://github.com/Pyroseza**
+- 💼 All of my public projects are available at: **https://github.com/Pyroseza**
 
-- 📄 Know about my work experiences **https://www.linkedin.com/in/jarrod-price/**
+- 👨‍💻 Know about my work experiences **https://www.linkedin.com/in/jarrod-price/**
 
-- ⚡ Fun fact: I have a black belt in Shotokan Karate
+- ⚡Fun fact: I have a black belt in Shotokan Karate 🥋
 
 <h1 align="center">My Stats</h1>
 
